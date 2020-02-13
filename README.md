@@ -1,5 +1,5 @@
 # 1-uzd
-pirma uzduotis
+Pirma užduotis
 
 Ši programa parašo pasisveikinimą naudotojo įrašytam vardui ir sukuria rėmelius šiam pasisveikinimus(naudotojas gali pasirinkti rėmelių plotį)
 
